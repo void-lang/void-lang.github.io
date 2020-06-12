@@ -1,2 +1,2 @@
 # void
-_a programming language about nothing_
+_the programming meta-language_
